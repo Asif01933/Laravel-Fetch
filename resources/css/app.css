@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.trip {
+    width: 360px;
+    margin-left: 600px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 3px;
+    font-weight: bold;
+    border-style: solid;
+    border-color: black;
+}
+
+.listing {
+    width: 120;
+    height: 32px;
+}
+.labelEnv {
+    margin-left: 584x;
+}
+.tablee {
+    width: 1500px;
+}
